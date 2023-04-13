@@ -1,0 +1,18 @@
+{
+  "name": "tiny-getCacheForType-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "^0.0.0-experimental-21021fb0f-20230412",
+    "react-dom": "^0.0.0-experimental-21021fb0f-20230412"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
